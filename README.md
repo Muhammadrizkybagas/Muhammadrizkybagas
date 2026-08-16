@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Muhammad%20Rizky%20Bagas&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center"> Web Developer | Data Scientist | ML Engineer</h2>
+<h2 align="center"> Junior Web Developer | Data Scientist | ML Engineer</h2>
 
 <p align="center">
 Building intelligent systems that merge AI & Web Technology.
@@ -100,7 +100,7 @@ Building intelligent systems that merge AI & Web Technology.
 
 ---
 
-## 📫 Contact
+## Contact
 [![Email](https://img.shields.io/badge/Email-muhammadrizkybagas9@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrizkybagas9@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@mhmmd.rizky_bagas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhmmd.rizky_bagas_)
 
